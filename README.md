@@ -1,2 +1,2 @@
-# base_seq2seq
-基础班seq2seq
+﻿# base_seq2seq
+基础版seq2seq
